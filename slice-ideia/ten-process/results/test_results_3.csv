@@ -1,0 +1,14 @@
+id,test_name,image_name,real_eggs,counted_eggs,algorithm_name,time_processment,image_height,image_width,flash
+1,test1,10_11_0.JPEG,11,1,Egg Counting Algorithm v1.0,1.472909927368164,1028,1910,0
+2,test1,1_6_0.jpg,6,6,Egg Counting Algorithm v1.0,0.19172954559326172,579,619,0
+3,test1,2_16_0.jpg,16,15,Egg Counting Algorithm v1.0,5.131654739379883,3070,3024,0
+4,test1,3_5_0.jpg,5,3,Egg Counting Algorithm v1.0,0.49042272567749023,856,1052,0
+5,test1,4_18_0.jpg,18,5,Egg Counting Algorithm v1.0,6.143427848815918,3184,3024,0
+6,test1,5_28_0.jpg,28,8,Egg Counting Algorithm v1.0,5.258945941925049,2657,3024,0
+7,test1,6_84_0.jpg,84,58,Egg Counting Algorithm v1.0,6.107089996337891,3024,3483,0
+8,test1,7_58_0.jpg,58,36,Egg Counting Algorithm v1.0,5.20729923248291,2648,3024,0
+9,test1,8_12_0.jpg,12,14,Egg Counting Algorithm v1.0,5.231202125549316,2883,3024,0
+10,test1,9_10_0.jpg,10,23,Egg Counting Algorithm v1.0,6.31837010383606,3570,3024,0
+11,test2,1_72_0.JPEG,72,0,Egg Counting Algorithm v1.0,2.451317071914673,2048,1536,0
+12,test2,2_55_0.JPEG,55,0,Egg Counting Algorithm v1.0,2.7176077365875244,2048,1536,0
+13,test2,3_58_0.JPEG,58,0,Egg Counting Algorithm v1.0,2.512234926223755,2048,1536,0

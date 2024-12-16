@@ -13,7 +13,7 @@ TESTS_FOLDER = 'tests'
 RESULTS_FOLDER = 'results'
 
 # Regex para extrair informações do nome da imagem
-IMAGE_PATTERN = re.compile(r"(\d+)_(\d+)(?:_(\d))?\.(jpg|png)$")
+IMAGE_PATTERN = re.compile(r"(\d+)_(\d+)(?:_(\d))?\.(jpg|png|JPEG)$")
 RESULTS_PATTERN = re.compile(r"test_results_(\d+)\.csv$")
 
 def create_results_folder():
