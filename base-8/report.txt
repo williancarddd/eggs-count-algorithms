@@ -1,0 +1,15 @@
++===================================+
+Filename - Ovos
+Modelo: best-v1.pt
++===================================+
+img-p282-16ovos.jpg - 19
+img-p186-136ovos.jpg - 112
+img-p177-24ovos.jpg - 34
+img-p144-29ovos.jpg - 10
+img-p37-22ovos.jpg - 9
+img-p329-20ovos.jpg - 20
+img-p110-50ovos.jpg - 19
+img-p87-55ovos.jpg - 42
+img-p33-12ovos.jpg - 6
+img-p290-18ovos.jpg - 14
++===================================+
