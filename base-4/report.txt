@@ -1,14 +1,14 @@
 +===================================+
 Filename - Ovos
-Modelo: best.pt
+Modelo: best-v1.pt
 +===================================+
-paleta2_60.png - 54
-arm 43 108 ovos.jpg - 56
-paleta4_20.png - 12
-paleta7_32.png - 27
-paleta8_0.png - 15
-paleta6_12.png - 13
-paleta1_41.png - 39
-paleta5_29.png - 21
-paleta3_18.png - 62
+paleta-1-41.png - 38
+paleta-7-32.png - 27
+paleta-3-18.png - 43
+paleta-4-20.png - 18
+paleta-5-29.png - 24
+paleta-43-108.jpg - 65
+paleta-6-12.png - 12
+paleta-2-60.png - 48
+paleta-8-0.png - 15
 +===================================+
