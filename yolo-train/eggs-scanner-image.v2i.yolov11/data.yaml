@@ -4,10 +4,3 @@ test: ../test/images
 
 nc: 1
 names: ['egg']
-
-roboflow:
-  workspace: eggs-fiocruz
-  project: eggs-scanner-image
-  version: 2
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/eggs-fiocruz/eggs-scanner-image/dataset/2
