@@ -1,0 +1,54 @@
++===================================+
+Filename - Ovos reais - Ovos contados
+Modelo: best-train2.pt
++===================================+
+img-p7-14ovos0001.jpg - N/A - 52
+paleta-1-25.jpg - 25 - 55
+paleta-10-103.jpg - 103 - 107
+paleta-10-179.jpg - 179 - 103
+paleta-10-56.jpg - 56 - 40
+paleta-10-79.jpg - 79 - 80
+paleta-11-148.jpg - 148 - 109
+paleta-11-157.jpg - 157 - 185
+paleta-11-178.jpg - 178 - 91
+paleta-12-181.jpg - 181 - 91
+paleta-12-19.jpg - 19 - 30
+paleta-12-24.jpg - 24 - 32
+paleta-12-41.jpg - 41 - 29
+paleta-13-28.jpg - 28 - 16
+paleta-13-31.jpg - 31 - 53
+paleta-13-33.jpg - 33 - 17
+paleta-13-82.jpg - 82 - 105
+paleta-13-83.jpg - 83 - 60
+paleta-15-54.jpg - 54 - 67
+paleta-15-66.jpg - 66 - 74
+paleta-15-92.jpg - 92 - 65
+paleta-16-4.jpg - 4 - 11
+paleta-17-21.jpg - 21 - 39
+paleta-17-49.jpg - 49 - 54
+paleta-17-8.jpg - 8 - 28
+paleta-2-10.jpg - 10 - 17
+paleta-2-2.jpg - 2 - 13
+paleta-2-4.jpg - 4 - 19
+paleta-3-37.jpg - 37 - 45
+paleta-4-107.jpg - 107 - 177
+paleta-4-11.jpg - 11 - 26
+paleta-4-125.jpg - 125 - 140
+paleta-4-158.jpg - 158 - 179
+paleta-4-5.jpg - 5 - 14
+paleta-5-13.jpg - 13 - 15
+paleta-5-26.jpg - 26 - 39
+paleta-5-28.jpg - 28 - 34
+paleta-6-38.jpg - 38 - 46
+paleta-6-65.jpg - 65 - 40
+paleta-7-14.jpg - 14 - 15
+paleta-7-32.jpg - 32 - 25
+paleta-8-139.jpg - 139 - 158
+paleta-8-146.jpg - 146 - 182
+paleta-8-15.jpg - 15 - 24
+paleta-8-25.jpg - 25 - 30
+paleta-9-12.jpg - 12 - 21
+paleta-9-137.jpg - 137 - 316
+paleta-9-60.jpg - 60 - 52
++===================================+
+Tempo total de execução: 1946.47s
