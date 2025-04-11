@@ -1,0 +1,16 @@
++===================================+
+Filename - Ovos reais - Ovos contados
+Modelo: best-v1.pt
++===================================+
+paleta-14-18.jpg - 18 - 21
+paleta-185-103.jpg - 103 - 37
+paleta-191-34.jpg - 34 - 36
+paleta-201-46.jpg - 46 - 44
+paleta-228-152.jpg - 152 - 131
+paleta-254-47.jpg - 47 - 35
+paleta-256-12.jpg - 12 - 16
+paleta-38-16.jpg - 16 - 18
+paleta-404-44.jpg - 44 - 23
+paleta-81-8.jpg - 8 - 3
++===================================+
+Tempo total de execução: 456.68s

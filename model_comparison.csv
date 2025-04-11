@@ -1,293 +1,279 @@
-name_file,real_eggs_images,counted_eggs_image,model_name,total_time
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,41,55,best-train2.pt,36.592035
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,32,38,best-train2.pt,33.476918
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,18,21,best-train2.pt,42.499373
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,16,20,best-train2.pt,38.687093
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,15,20,best-train2.pt,34.330972
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,41,48,best-train2.pt,35.179951
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,129,140,best-train2.pt,35.512908
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,93,151,best-train2.pt,38.468946
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,20,28,best-train2.pt,42.109894
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,55,57,best-train2.pt,36.142033
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,3,3,best-train2.pt,36.805975
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,13,16,best-train2.pt,37.34366
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,41,55,best-train2.pt,34.669943
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,60,54,best-train2.pt,30.129881
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,18,74,best-train2.pt,31.409994
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,20,21,best-train2.pt,29.195316
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,108,89,best-train2.pt,38.298778
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,29,22,best-train2.pt,33.627621
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,12,15,best-train2.pt,35.500251
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,32,38,best-train2.pt,34.351687
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,0,21,best-train2.pt,36.344422
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,18,21,best-train2.pt,45.025346
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,103,49,best-train2.pt,44.920326
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,34,52,best-train2.pt,39.555556
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,46,46,best-train2.pt,44.356937
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,152,150,best-train2.pt,44.145298
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,47,44,best-train2.pt,39.504112
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,12,12,best-train2.pt,44.753109
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,16,20,best-train2.pt,40.830631
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,44,33,best-train2.pt,35.364172
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,8,8,best-train2.pt,45.516277
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,23,20,best-train2.pt,37.891714
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,41,48,best-train2.pt,37.371899
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,32,39,best-train2.pt,37.546755
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,58,53,best-train2.pt,38.381904
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,59,60,best-train2.pt,36.971805
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,4,6,best-train2.pt,38.149948
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,108,69,best-train2.pt,37.817338
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,7,6,best-train2.pt,39.245242
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,15,20,best-train2.pt,39.185551
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,60,56,best-train2.pt,38.789604
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,112,132,best-train2.pt,38.232857
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,4,11,best-train2.pt,37.847577
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,47,76,best-train2.pt,36.408723
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,93,151,best-train2.pt,41.061537
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,129,140,best-train2.pt,41.144509
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,114,132,best-train2.pt,39.986213
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,15,21,best-train2.pt,42.966203
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,95,106,best-train2.pt,44.682742
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,24,33,best-train2.pt,43.130122
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,4,10,best-train2.pt,42.967405
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,20,47,best-train2.pt,43.099414
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,53,65,best-train2.pt,42.911869
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,13,17,best-train2.pt,40.903807
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,50,39,best-train2.pt,42.64986
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,29,15,best-train2.pt,43.342264
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,24,26,best-train2.pt,51.131498
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,136,160,best-train2.pt,42.456384
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,16,28,best-train2.pt,43.483233
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,18,24,best-train2.pt,45.408201
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,20,28,best-train2.pt,54.228228
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,12,24,best-train2.pt,55.049363
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,22,15,best-train2.pt,39.487137
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,55,57,best-train2.pt,39.403138
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,5,13,best-train2.pt,39.208082
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,4,14,best-train2.pt,37.834859
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,13,16,best-train2.pt,39.773217
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,1,3,best-train2.pt,39.754436
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,11,15,best-train2.pt,39.235088
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,3,3,best-train2.pt,40.066711
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,3,6,best-train2.pt,38.859385
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,8,13,best-train2.pt,49.266552
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,1,8,best-train2.pt,49.567167
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,9,32,best-train2.pt,49.735825
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,41,38,best-v1.pt,32.748458
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,60,48,best-v1.pt,29.172661
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,18,43,best-v1.pt,29.684387
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,20,18,best-v1.pt,29.118478
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,108,65,best-v1.pt,38.450502
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,29,24,best-v1.pt,32.711026
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,12,12,best-v1.pt,33.235411
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,32,27,best-v1.pt,32.664582
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,0,15,best-v1.pt,34.2679
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,18,21,best-v1.pt,42.398286
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,103,37,best-v1.pt,42.533595
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,34,36,best-v1.pt,37.942708
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,46,44,best-v1.pt,43.175614
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,152,131,best-v1.pt,43.408306
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,47,35,best-v1.pt,39.64397
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,12,16,best-v1.pt,43.357733
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,16,18,best-v1.pt,40.625376
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,44,23,best-v1.pt,35.76353
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,8,3,best-v1.pt,44.756614
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,23,18,best-v1.pt,37.127487
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,41,38,best-v1.pt,36.95711
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,32,27,best-v1.pt,36.826681
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,58,48,best-v1.pt,37.600736
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,59,47,best-v1.pt,37.738841
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,4,6,best-v1.pt,37.290151
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,108,48,best-v1.pt,38.038899
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,7,5,best-v1.pt,38.376569
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,15,15,best-v1.pt,37.732424
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,60,44,best-v1.pt,39.103147
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,112,94,best-v1.pt,38.753707
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,4,8,best-v1.pt,38.604706
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,47,49,best-v1.pt,37.124833
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,93,118,best-v1.pt,41.528667
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,129,103,best-v1.pt,39.021177
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,114,127,best-v1.pt,39.135454
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,15,16,best-v1.pt,39.77749
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,95,82,best-v1.pt,41.089117
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,24,16,best-v1.pt,41.00596
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,4,5,best-v1.pt,41.191104
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,20,27,best-v1.pt,40.617175
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,53,52,best-v1.pt,41.206479
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,13,13,best-v1.pt,39.816402
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,50,19,best-v1.pt,41.50632
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,29,10,best-v1.pt,40.99185
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,24,34,best-v1.pt,46.548575
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,136,112,best-v1.pt,41.171358
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,16,19,best-v1.pt,46.092773
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,18,14,best-v1.pt,47.041204
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,20,20,best-v1.pt,55.870881
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,12,6,best-v1.pt,54.471523
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,22,9,best-v1.pt,44.827677
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,55,42,best-v1.pt,45.871265
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,5,7,best-v1.pt,45.983008
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,4,4,best-v1.pt,42.164761
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,13,8,best-v1.pt,43.04022
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,1,0,best-v1.pt,44.070567
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,11,9,best-v1.pt,47.749026
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,3,2,best-v1.pt,45.653555
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,3,3,best-v1.pt,43.246245
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,8,8,best-v1.pt,43.75028
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,1,2,best-v1.pt,43.8499
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,9,15,best-v1.pt,43.605095
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,128,113,best-v1.pt,43.156379
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,12,9,best-v1.pt,36.640754
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,169,45,best-v1.pt,36.177946
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,10,11,best-v1.pt,35.352668
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,34,30,best-v1.pt,34.3325
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,89,72,best-v1.pt,36.683068
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,111,18,best-v1.pt,37.980965
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,172,188,best-v1.pt,38.18421
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,54,52,best-v1.pt,37.869061
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,90,74,best-v1.pt,36.408359
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,56,26,best-v1.pt,39.220608
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,34,15,best-v1.pt,39.295803
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,11,16,best-v1.pt,38.227569
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,27,19,best-v1.pt,35.881857
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,55,48,best-v1.pt,46.314487
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,89,106,best-v1.pt,38.620482
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,100,76,best-v1.pt,39.957992
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,64,40,best-v1.pt,41.114523
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,39,54,best-v1.pt,38.951818
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,82,37,best-v1.pt,38.834765
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,128,136,best-train2.pt,38.629061
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,12,15,best-train2.pt,31.833015
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,169,159,best-train2.pt,34.264976
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,10,17,best-train2.pt,32.726845
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,34,32,best-train2.pt,31.65676
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,89,88,best-train2.pt,33.493252
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,111,58,best-train2.pt,34.792762
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,172,225,best-train2.pt,33.030489
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,54,54,best-train2.pt,34.121025
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,90,107,best-train2.pt,33.554209
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,56,54,best-train2.pt,35.819239
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,34,54,best-train2.pt,36.582815
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,11,20,best-train2.pt,33.543383
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,27,31,best-train2.pt,36.401237
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,55,57,best-train2.pt,46.269951
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,89,103,best-train2.pt,38.119571
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,100,99,best-train2.pt,38.24265
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,64,74,best-train2.pt,37.3077
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,39,47,best-train2.pt,36.892856
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,82,98,best-train2.pt,38.369291
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,183,83,best-train2.pt,36.038698
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,50,33,best-train2.pt,38.987305
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,14,18,best-train2.pt,32.043523
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,102,96,best-train2.pt,33.88161
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,17,19,best-train2.pt,34.223643
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,242,216,best-train2.pt,34.065589
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,148,144,best-train2.pt,33.695159
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,257,239,best-train2.pt,34.172681
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,13,38,best-train2.pt,34.39806
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,30,31,best-train2.pt,36.064869
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,183,33,best-v1.pt,36.055657
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,50,32,best-v1.pt,36.969907
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,14,8,best-v1.pt,32.774413
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,102,68,best-v1.pt,33.965939
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,17,12,best-v1.pt,35.893487
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,242,149,best-v1.pt,32.605992
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,148,103,best-v1.pt,33.181152
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,257,189,best-v1.pt,34.418129
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,13,32,best-v1.pt,33.077896
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,30,9,best-v1.pt,38.259393
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,N/A,14,best-v1.pt,33.519475
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,25,12,best-v1.pt,34.450205
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,103,30,best-v1.pt,34.762029
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,179,45,best-v1.pt,35.284392
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,56,12,best-v1.pt,38.007015
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,79,20,best-v1.pt,36.436059
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,148,58,best-v1.pt,34.710334
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,157,143,best-v1.pt,43.435561
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,178,42,best-v1.pt,35.706035
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,181,36,best-v1.pt,34.754911
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,19,16,best-v1.pt,35.611587
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,24,30,best-v1.pt,40.707802
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,41,11,best-v1.pt,42.336883
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,28,13,best-v1.pt,62.655542
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,31,18,best-v1.pt,37.127044
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,33,5,best-v1.pt,36.301219
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,82,80,best-v1.pt,37.377477
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,83,23,best-v1.pt,44.655592
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,54,60,best-v1.pt,43.071933
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,66,22,best-v1.pt,42.769105
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,92,31,best-v1.pt,44.048544
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,4,4,best-v1.pt,39.328209
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,21,28,best-v1.pt,44.294109
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,49,11,best-v1.pt,38.848275
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,8,16,best-v1.pt,39.176582
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,10,8,best-v1.pt,40.635512
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,2,9,best-v1.pt,45.335956
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,4,5,best-v1.pt,41.655687
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,37,37,best-v1.pt,46.537744
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,107,138,best-v1.pt,41.451733
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,11,21,best-v1.pt,45.89766
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,125,105,best-v1.pt,40.545701
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,158,115,best-v1.pt,39.516051
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,5,6,best-v1.pt,39.816764
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,13,8,best-v1.pt,39.517472
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,26,29,best-v1.pt,47.327613
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,28,14,best-v1.pt,45.310031
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,38,40,best-v1.pt,46.893249
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,65,8,best-v1.pt,50.47644
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,14,5,best-v1.pt,50.366263
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,32,8,best-v1.pt,43.623916
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,139,123,best-v1.pt,43.705216
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,146,33,best-v1.pt,43.90149
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,15,22,best-v1.pt,41.558929
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,25,32,best-v1.pt,52.886904
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,12,22,best-v1.pt,53.989987
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,137,267,best-v1.pt,58.905958
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,60,17,best-v1.pt,56.912798
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,N/A,52,best-train2.pt,36.338792
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,25,55,best-train2.pt,33.737186
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,103,107,best-train2.pt,34.845651
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,179,103,best-train2.pt,38.243378
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,56,40,best-train2.pt,39.299138
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,79,80,best-train2.pt,35.982479
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,148,109,best-train2.pt,36.253449
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,157,185,best-train2.pt,45.64047
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,178,91,best-train2.pt,37.555833
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,181,91,best-train2.pt,36.095632
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,19,30,best-train2.pt,38.061144
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,24,32,best-train2.pt,42.29715
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,41,29,best-train2.pt,40.273272
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,28,16,best-train2.pt,60.708088
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,31,53,best-train2.pt,36.660411
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,33,17,best-train2.pt,36.462217
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,82,105,best-train2.pt,36.971936
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,83,60,best-train2.pt,41.732744
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,54,67,best-train2.pt,40.620107
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,66,74,best-train2.pt,36.979869
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,92,65,best-train2.pt,37.490388
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,4,11,best-train2.pt,37.793711
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,21,39,best-train2.pt,40.475865
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,49,54,best-train2.pt,36.390571
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,8,28,best-train2.pt,36.086085
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,10,17,best-train2.pt,37.453541
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,2,13,best-train2.pt,42.835925
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,4,19,best-train2.pt,38.530444
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,37,45,best-train2.pt,41.11621
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,107,177,best-train2.pt,38.970926
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,11,26,best-train2.pt,43.157448
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,125,140,best-train2.pt,38.224365
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,158,179,best-train2.pt,37.688575
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,5,14,best-train2.pt,37.691816
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,13,15,best-train2.pt,38.077559
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,26,39,best-train2.pt,41.64276
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,28,34,best-train2.pt,41.490269
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,38,46,best-train2.pt,39.837753
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,65,40,best-train2.pt,46.18933
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,14,15,best-train2.pt,46.707266
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,32,25,best-train2.pt,42.140093
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,139,158,best-train2.pt,41.464362
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,146,182,best-train2.pt,42.250775
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,15,24,best-train2.pt,39.865848
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,25,30,best-train2.pt,49.863305
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,12,21,best-train2.pt,46.783718
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,137,316,best-train2.pt,47.303006
-/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,60,52,best-train2.pt,50.085662
+name_file,real_eggs_images,counted_eggs_image,model_name,total_time,image_name,timestamp
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,128,136,best-train2.pt,41.583563,paleta-10-128.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,12,15,best-train2.pt,32.511311,paleta-11-12.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,169,159,best-train2.pt,34.731858,paleta-11-169.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,10,17,best-train2.pt,35.198225,paleta-12-10.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,34,32,best-train2.pt,34.251991,paleta-12-34.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,89,88,best-train2.pt,36.128729,paleta-14-89.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,111,58,best-train2.pt,35.952646,paleta-15-111.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,172,225,best-train2.pt,35.454575,paleta-16-172.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,54,54,best-train2.pt,35.849943,paleta-17-54.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,90,107,best-train2.pt,36.251159,paleta-17-90.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,56,54,best-train2.pt,38.255987,paleta-3-56.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,34,54,best-train2.pt,38.237736,paleta-4-34.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,11,20,best-train2.pt,37.017674,paleta-5-11.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,27,31,best-train2.pt,36.383424,paleta-6-27.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,55,57,best-train2.pt,47.847291,paleta-6-55.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,89,103,best-train2.pt,38.959756,paleta-7-89.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,100,99,best-train2.pt,38.730837,paleta-8-100.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,64,74,best-train2.pt,36.119474,paleta-8-64.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,39,47,best-train2.pt,36.044579,paleta-9-39.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,82,98,best-train2.pt,36.5077,paleta-9-82.jpg,2025-03-26 21:06:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,183,83,best-train2.pt,37.0167,paleta-43-183.jpg,2025-03-26 21:13:01
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,50,33,best-train2.pt,44.794793,paleta-43-50.jpg,2025-03-26 21:13:01
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,14,18,best-train2.pt,37.667659,paleta-46-14.jpg,2025-03-26 21:13:01
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,102,96,best-train2.pt,39.450992,paleta-48-102.jpg,2025-03-26 21:13:01
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,17,19,best-train2.pt,37.096417,paleta-48-17.jpg,2025-03-26 21:13:01
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,242,216,best-train2.pt,36.358561,paleta-48-242.jpg,2025-03-26 21:13:01
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,148,144,best-train2.pt,38.398446,paleta-49-148.jpg,2025-03-26 21:13:01
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,257,239,best-train2.pt,35.871746,paleta-49-257.jpg,2025-03-26 21:13:01
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,13,38,best-train2.pt,36.544085,paleta-50-13.jpg,2025-03-26 21:13:01
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,30,31,best-train2.pt,39.558773,paleta-50-30.jpg,2025-03-26 21:13:01
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,25,55,best-train2.pt,39.661168,paleta-1-25.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,103,107,best-train2.pt,40.79223,paleta-10-103.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,179,103,best-train2.pt,39.287488,paleta-10-179.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,56,40,best-train2.pt,46.003531,paleta-10-56.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,79,80,best-train2.pt,38.487569,paleta-10-79.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,148,109,best-train2.pt,39.102128,paleta-11-148.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,157,185,best-train2.pt,53.881746,paleta-11-157.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,178,91,best-train2.pt,42.514475,paleta-11-178.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,181,91,best-train2.pt,42.355508,paleta-12-181.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,19,30,best-train2.pt,43.871665,paleta-12-19.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,24,32,best-train2.pt,49.221272,paleta-12-24.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,41,29,best-train2.pt,46.599464,paleta-12-41.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,28,16,best-train2.pt,70.291374,paleta-13-28.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,31,53,best-train2.pt,41.951057,paleta-13-31.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,33,17,best-train2.pt,41.100886,paleta-13-33.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,82,105,best-train2.pt,41.734636,paleta-13-82.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,83,60,best-train2.pt,46.339653,paleta-13-83.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,54,67,best-train2.pt,44.092571,paleta-15-54.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,66,74,best-train2.pt,42.437423,paleta-15-66.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,92,65,best-train2.pt,42.133539,paleta-15-92.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,4,11,best-train2.pt,42.794848,paleta-16-4.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,21,39,best-train2.pt,45.695109,paleta-17-21.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,49,54,best-train2.pt,40.573156,paleta-17-49.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,8,28,best-train2.pt,40.582289,paleta-17-8.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,10,17,best-train2.pt,41.358664,paleta-2-10.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,2,13,best-train2.pt,45.997915,paleta-2-2.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,4,19,best-train2.pt,41.259285,paleta-2-4.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,37,45,best-train2.pt,68.564751,paleta-3-37.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,107,177,best-train2.pt,37.943221,paleta-4-107.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,11,26,best-train2.pt,42.986131,paleta-4-11.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,125,140,best-train2.pt,38.635585,paleta-4-125.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,158,179,best-train2.pt,37.386543,paleta-4-158.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,5,14,best-train2.pt,36.442939,paleta-4-5.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,13,15,best-train2.pt,37.044181,paleta-5-13.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,26,39,best-train2.pt,38.837353,paleta-5-26.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,28,34,best-train2.pt,39.205201,paleta-5-28.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,38,46,best-train2.pt,37.090316,paleta-6-38.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,65,40,best-train2.pt,43.257805,paleta-6-65.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,14,15,best-train2.pt,43.569116,paleta-7-14.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,32,25,best-train2.pt,37.816598,paleta-7-32.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,139,158,best-train2.pt,38.553461,paleta-8-139.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,146,182,best-train2.pt,40.89775,paleta-8-146.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,15,24,best-train2.pt,38.652051,paleta-8-15.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,25,30,best-train2.pt,48.046624,paleta-8-25.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,12,21,best-train2.pt,44.612149,paleta-9-12.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,137,316,best-train2.pt,44.643611,paleta-9-137.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,60,52,best-train2.pt,44.377566,paleta-9-60.jpg,2025-03-26 21:46:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,41,55,best-train2.pt,39.656212,paleta-1-41.png,2025-03-26 21:52:41
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,60,54,best-train2.pt,35.702344,paleta-2-60.png,2025-03-26 21:52:41
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,18,74,best-train2.pt,35.671433,paleta-3-18.png,2025-03-26 21:52:41
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,20,21,best-train2.pt,33.463907,paleta-4-20.png,2025-03-26 21:52:41
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,108,89,best-train2.pt,44.061106,paleta-43-108.jpg,2025-03-26 21:52:41
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,29,22,best-train2.pt,38.493406,paleta-5-29.png,2025-03-26 21:52:41
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,12,15,best-train2.pt,39.957456,paleta-6-12.png,2025-03-26 21:52:41
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,32,38,best-train2.pt,37.988625,paleta-7-32.png,2025-03-26 21:52:41
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,0,21,best-train2.pt,38.454203,paleta-8-0.png,2025-03-26 21:52:41
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,18,21,best-train2.pt,47.897934,paleta-14-18.jpg,2025-03-26 22:00:15
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,103,49,best-train2.pt,48.54182,paleta-185-103.jpg,2025-03-26 22:00:15
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,34,52,best-train2.pt,41.106845,paleta-191-34.jpg,2025-03-26 22:00:15
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,46,46,best-train2.pt,48.034957,paleta-201-46.jpg,2025-03-26 22:00:15
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,152,150,best-train2.pt,47.937798,paleta-228-152.jpg,2025-03-26 22:00:15
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,47,44,best-train2.pt,43.977282,paleta-254-47.jpg,2025-03-26 22:00:15
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,12,12,best-train2.pt,48.110743,paleta-256-12.jpg,2025-03-26 22:00:15
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,16,20,best-train2.pt,42.81147,paleta-38-16.jpg,2025-03-26 22:00:15
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,44,33,best-train2.pt,37.162714,paleta-404-44.jpg,2025-03-26 22:00:15
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,8,8,best-train2.pt,47.075621,paleta-81-8.jpg,2025-03-26 22:00:15
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,23,20,best-train2.pt,38.311602,paleta-067-23.jpg,2025-03-26 22:06:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,41,48,best-train2.pt,39.91894,paleta-109-41.jpg,2025-03-26 22:06:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,32,39,best-train2.pt,40.351123,paleta-187-32.jpg,2025-03-26 22:06:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,58,53,best-train2.pt,39.508138,paleta-291-58.jpg,2025-03-26 22:06:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,59,60,best-train2.pt,40.408176,paleta-34-59.jpg,2025-03-26 22:06:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,4,6,best-train2.pt,40.346483,paleta-352-4.jpg,2025-03-26 22:06:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,108,69,best-train2.pt,40.244769,paleta-43-108.jpg,2025-03-26 22:06:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,7,6,best-train2.pt,39.568182,paleta-51-7.jpg,2025-03-26 22:06:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,15,20,best-train2.pt,39.949537,paleta-61-15.jpg,2025-03-26 22:06:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,60,56,best-train2.pt,39.473921,paleta-78-60.jpg,2025-03-26 22:06:54
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,112,132,best-train2.pt,39.890357,paleta-1-112.jpg,2025-03-26 22:15:31
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,4,11,best-train2.pt,40.214968,paleta-10-4.jpg,2025-03-26 22:15:31
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,47,76,best-train2.pt,38.310438,paleta-11-47.jpg,2025-03-26 22:15:31
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,93,151,best-train2.pt,42.892416,paleta-12-93.jpg,2025-03-26 22:15:31
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,129,140,best-train2.pt,39.412841,paleta-13-129.jpg,2025-03-26 22:15:31
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,114,132,best-train2.pt,39.359715,paleta-14-114.jpg,2025-03-26 22:15:31
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,15,21,best-train2.pt,39.971402,paleta-15-15.jpg,2025-03-26 22:15:31
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,95,106,best-train2.pt,39.678832,paleta-16-95.jpg,2025-03-26 22:15:31
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,24,33,best-train2.pt,39.541501,paleta-17-24.jpg,2025-03-26 22:15:31
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,4,10,best-train2.pt,39.377445,paleta-2-4.jpg,2025-03-26 22:15:31
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,20,47,best-train2.pt,39.836194,paleta-5-20.jpg,2025-03-26 22:15:31
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,53,65,best-train2.pt,39.49637,paleta-7-53.jpg,2025-03-26 22:15:31
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,13,17,best-train2.pt,38.363119,paleta-9-13.jpg,2025-03-26 22:15:31
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,50,39,best-train2.pt,40.001502,paleta-110-50.jpg,2025-03-26 22:22:19
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,29,15,best-train2.pt,38.995901,paleta-144-29.jpg,2025-03-26 22:22:19
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,24,26,best-train2.pt,43.992327,paleta-177-24.jpg,2025-03-26 22:22:19
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,136,160,best-train2.pt,37.371465,paleta-186-136.jpg,2025-03-26 22:22:19
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,16,28,best-train2.pt,39.929585,paleta-282-16.jpg,2025-03-26 22:22:19
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,18,24,best-train2.pt,39.093438,paleta-290-18.jpg,2025-03-26 22:22:19
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,20,28,best-train2.pt,45.420925,paleta-329-20.jpg,2025-03-26 22:22:19
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,12,24,best-train2.pt,44.091902,paleta-33-12.jpg,2025-03-26 22:22:19
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,22,15,best-train2.pt,38.542769,paleta-37-22.jpg,2025-03-26 22:22:19
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,55,57,best-train2.pt,39.228816,paleta-87-55.jpg,2025-03-26 22:22:19
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,5,13,best-train2.pt,39.89774,paleta-140-5.jpg,2025-03-26 22:28:47
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,4,14,best-train2.pt,37.376538,paleta-146-4.jpg,2025-03-26 22:28:47
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,13,16,best-train2.pt,38.404211,paleta-165-13.jpg,2025-03-26 22:28:47
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,1,3,best-train2.pt,38.867771,paleta-203-1.jpg,2025-03-26 22:28:47
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,11,15,best-train2.pt,39.396752,paleta-210-11.jpg,2025-03-26 22:28:47
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,3,3,best-train2.pt,38.894284,paleta-211-3.jpg,2025-03-26 22:28:47
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,3,6,best-train2.pt,38.192815,paleta-268-3.jpg,2025-03-26 22:28:47
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,8,13,best-train2.pt,39.241527,paleta-284-8.jpg,2025-03-26 22:28:47
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,1,8,best-train2.pt,38.784658,paleta-285-1.jpg,2025-03-26 22:28:47
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,9,32,best-train2.pt,37.511473,paleta-340-9.jpg,2025-03-26 22:28:47
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,128,113,best-v1.pt,38.701421,paleta-10-128.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,12,9,best-v1.pt,32.451065,paleta-11-12.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,169,45,best-v1.pt,33.697877,paleta-11-169.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,10,11,best-v1.pt,35.311879,paleta-12-10.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,34,30,best-v1.pt,34.271353,paleta-12-34.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,89,72,best-v1.pt,35.937119,paleta-14-89.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,111,18,best-v1.pt,36.490658,paleta-15-111.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,172,188,best-v1.pt,35.708137,paleta-16-172.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,54,52,best-v1.pt,36.952285,paleta-17-54.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,90,74,best-v1.pt,34.163298,paleta-17-90.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,56,26,best-v1.pt,35.565374,paleta-3-56.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,34,15,best-v1.pt,35.446405,paleta-4-34.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,11,16,best-v1.pt,34.814838,paleta-5-11.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,27,19,best-v1.pt,34.878491,paleta-6-27.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,55,48,best-v1.pt,44.488547,paleta-6-55.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,89,106,best-v1.pt,35.924874,paleta-7-89.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,100,76,best-v1.pt,36.44673,paleta-8-100.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,64,40,best-v1.pt,36.125827,paleta-8-64.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,39,54,best-v1.pt,36.058382,paleta-9-39.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-10,82,37,best-v1.pt,37.372499,paleta-9-82.jpg,2025-03-26 23:30:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,183,33,best-v1.pt,37.754354,paleta-43-183.jpg,2025-03-26 23:36:56
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,50,32,best-v1.pt,41.571607,paleta-43-50.jpg,2025-03-26 23:36:56
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,14,8,best-v1.pt,35.180153,paleta-46-14.jpg,2025-03-26 23:36:56
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,102,68,best-v1.pt,37.265828,paleta-48-102.jpg,2025-03-26 23:36:56
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,17,12,best-v1.pt,38.654583,paleta-48-17.jpg,2025-03-26 23:36:56
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,242,149,best-v1.pt,37.143929,paleta-48-242.jpg,2025-03-26 23:36:56
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,148,103,best-v1.pt,36.759493,paleta-49-148.jpg,2025-03-26 23:36:56
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,257,189,best-v1.pt,37.475692,paleta-49-257.jpg,2025-03-26 23:36:56
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,13,32,best-v1.pt,37.776636,paleta-50-13.jpg,2025-03-26 23:36:56
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-11,30,9,best-v1.pt,37.784998,paleta-50-30.jpg,2025-03-26 23:36:56
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,25,12,best-v1.pt,38.953094,paleta-1-25.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,103,30,best-v1.pt,36.37924,paleta-10-103.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,179,45,best-v1.pt,38.754718,paleta-10-179.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,56,12,best-v1.pt,44.054803,paleta-10-56.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,79,20,best-v1.pt,38.035292,paleta-10-79.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,148,58,best-v1.pt,39.628563,paleta-11-148.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,157,143,best-v1.pt,50.017821,paleta-11-157.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,178,42,best-v1.pt,41.541927,paleta-11-178.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,181,36,best-v1.pt,40.300478,paleta-12-181.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,19,16,best-v1.pt,41.763715,paleta-12-19.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,24,30,best-v1.pt,46.32978,paleta-12-24.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,41,11,best-v1.pt,46.81683,paleta-12-41.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,28,13,best-v1.pt,69.981287,paleta-13-28.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,31,18,best-v1.pt,42.062394,paleta-13-31.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,33,5,best-v1.pt,41.857832,paleta-13-33.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,82,80,best-v1.pt,41.554925,paleta-13-82.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,83,23,best-v1.pt,47.338341,paleta-13-83.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,54,60,best-v1.pt,45.192346,paleta-15-54.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,66,22,best-v1.pt,42.213147,paleta-15-66.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,92,31,best-v1.pt,42.386894,paleta-15-92.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,4,4,best-v1.pt,42.434708,paleta-16-4.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,21,28,best-v1.pt,45.215203,paleta-17-21.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,49,11,best-v1.pt,40.817076,paleta-17-49.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,8,16,best-v1.pt,40.75827,paleta-17-8.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,10,8,best-v1.pt,41.315652,paleta-2-10.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,2,9,best-v1.pt,46.1047,paleta-2-2.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,4,5,best-v1.pt,41.204147,paleta-2-4.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,37,37,best-v1.pt,44.490371,paleta-3-37.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,107,138,best-v1.pt,41.42307,paleta-4-107.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,11,21,best-v1.pt,54.607017,paleta-4-11.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,125,105,best-v1.pt,38.693532,paleta-4-125.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,158,115,best-v1.pt,37.732688,paleta-4-158.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,5,6,best-v1.pt,37.369514,paleta-4-5.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,13,8,best-v1.pt,37.189105,paleta-5-13.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,26,29,best-v1.pt,38.6706,paleta-5-26.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,28,14,best-v1.pt,38.71988,paleta-5-28.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,38,40,best-v1.pt,37.418491,paleta-6-38.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,65,8,best-v1.pt,43.28667,paleta-6-65.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,14,5,best-v1.pt,43.246863,paleta-7-14.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,32,8,best-v1.pt,38.964544,paleta-7-32.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,139,123,best-v1.pt,39.320206,paleta-8-139.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,146,33,best-v1.pt,40.564213,paleta-8-146.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,15,22,best-v1.pt,38.499232,paleta-8-15.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,25,32,best-v1.pt,47.140414,paleta-8-25.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,12,22,best-v1.pt,44.946073,paleta-9-12.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,137,267,best-v1.pt,44.949323,paleta-9-137.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-12,60,17,best-v1.pt,44.415024,paleta-9-60.jpg,2025-03-27 00:10:25
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,41,38,best-v1.pt,40.035383,paleta-1-41.png,2025-03-27 00:16:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,60,48,best-v1.pt,35.807333,paleta-2-60.png,2025-03-27 00:16:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,18,43,best-v1.pt,35.51472,paleta-3-18.png,2025-03-27 00:16:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,20,18,best-v1.pt,34.11369,paleta-4-20.png,2025-03-27 00:16:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,108,65,best-v1.pt,43.920065,paleta-43-108.jpg,2025-03-27 00:16:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,29,24,best-v1.pt,38.184442,paleta-5-29.png,2025-03-27 00:16:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,12,12,best-v1.pt,39.305812,paleta-6-12.png,2025-03-27 00:16:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,32,27,best-v1.pt,38.182629,paleta-7-32.png,2025-03-27 00:16:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-4,0,15,best-v1.pt,39.297012,paleta-8-0.png,2025-03-27 00:16:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,18,21,best-v1.pt,48.315063,paleta-14-18.jpg,2025-03-27 00:23:50
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,103,37,best-v1.pt,48.578112,paleta-185-103.jpg,2025-03-27 00:23:50
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,34,36,best-v1.pt,41.840803,paleta-191-34.jpg,2025-03-27 00:23:50
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,46,44,best-v1.pt,48.159435,paleta-201-46.jpg,2025-03-27 00:23:50
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,152,131,best-v1.pt,47.874965,paleta-228-152.jpg,2025-03-27 00:23:50
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,47,35,best-v1.pt,43.517925,paleta-254-47.jpg,2025-03-27 00:23:50
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,12,16,best-v1.pt,48.680699,paleta-256-12.jpg,2025-03-27 00:23:50
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,16,18,best-v1.pt,43.88194,paleta-38-16.jpg,2025-03-27 00:23:50
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,44,23,best-v1.pt,37.409787,paleta-404-44.jpg,2025-03-27 00:23:50
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-5,8,3,best-v1.pt,47.373258,paleta-81-8.jpg,2025-03-27 00:23:50
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,23,18,best-v1.pt,38.47576,paleta-067-23.jpg,2025-03-27 00:30:30
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,41,38,best-v1.pt,39.301283,paleta-109-41.jpg,2025-03-27 00:30:30
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,32,27,best-v1.pt,40.615667,paleta-187-32.jpg,2025-03-27 00:30:30
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,58,48,best-v1.pt,40.159116,paleta-291-58.jpg,2025-03-27 00:30:30
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,59,47,best-v1.pt,39.977577,paleta-34-59.jpg,2025-03-27 00:30:30
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,4,6,best-v1.pt,40.272883,paleta-352-4.jpg,2025-03-27 00:30:30
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,108,48,best-v1.pt,40.261541,paleta-43-108.jpg,2025-03-27 00:30:30
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,7,5,best-v1.pt,40.06029,paleta-51-7.jpg,2025-03-27 00:30:30
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,15,15,best-v1.pt,39.761021,paleta-61-15.jpg,2025-03-27 00:30:30
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-6,60,44,best-v1.pt,40.151731,paleta-78-60.jpg,2025-03-27 00:30:30
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,112,94,best-v1.pt,40.293711,paleta-1-112.jpg,2025-03-27 00:39:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,4,8,best-v1.pt,40.393174,paleta-10-4.jpg,2025-03-27 00:39:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,47,49,best-v1.pt,38.766973,paleta-11-47.jpg,2025-03-27 00:39:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,93,118,best-v1.pt,43.161514,paleta-12-93.jpg,2025-03-27 00:39:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,129,103,best-v1.pt,40.317169,paleta-13-129.jpg,2025-03-27 00:39:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,114,127,best-v1.pt,39.942962,paleta-14-114.jpg,2025-03-27 00:39:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,15,16,best-v1.pt,39.846639,paleta-15-15.jpg,2025-03-27 00:39:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,95,82,best-v1.pt,40.407262,paleta-16-95.jpg,2025-03-27 00:39:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,24,16,best-v1.pt,40.57026,paleta-17-24.jpg,2025-03-27 00:39:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,4,5,best-v1.pt,39.702688,paleta-2-4.jpg,2025-03-27 00:39:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,20,27,best-v1.pt,39.628744,paleta-5-20.jpg,2025-03-27 00:39:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,53,52,best-v1.pt,40.653428,paleta-7-53.jpg,2025-03-27 00:39:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-7,13,13,best-v1.pt,38.404058,paleta-9-13.jpg,2025-03-27 00:39:13
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,50,19,best-v1.pt,39.942034,paleta-110-50.jpg,2025-03-27 00:46:05
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,29,10,best-v1.pt,39.174545,paleta-144-29.jpg,2025-03-27 00:46:05
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,24,34,best-v1.pt,44.053327,paleta-177-24.jpg,2025-03-27 00:46:05
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,136,112,best-v1.pt,38.512568,paleta-186-136.jpg,2025-03-27 00:46:05
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,16,19,best-v1.pt,40.193708,paleta-282-16.jpg,2025-03-27 00:46:05
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,18,14,best-v1.pt,39.262401,paleta-290-18.jpg,2025-03-27 00:46:05
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,20,20,best-v1.pt,45.538137,paleta-329-20.jpg,2025-03-27 00:46:05
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,12,6,best-v1.pt,44.749191,paleta-33-12.jpg,2025-03-27 00:46:05
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,22,9,best-v1.pt,39.185807,paleta-37-22.jpg,2025-03-27 00:46:05
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-8,55,42,best-v1.pt,40.07664,paleta-87-55.jpg,2025-03-27 00:46:05
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,5,7,best-v1.pt,39.763738,paleta-140-5.jpg,2025-03-27 00:52:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,4,4,best-v1.pt,38.52533,paleta-146-4.jpg,2025-03-27 00:52:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,13,8,best-v1.pt,39.814667,paleta-165-13.jpg,2025-03-27 00:52:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,1,0,best-v1.pt,39.480303,paleta-203-1.jpg,2025-03-27 00:52:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,11,9,best-v1.pt,39.292083,paleta-210-11.jpg,2025-03-27 00:52:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,3,2,best-v1.pt,39.610715,paleta-211-3.jpg,2025-03-27 00:52:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,3,3,best-v1.pt,37.887992,paleta-268-3.jpg,2025-03-27 00:52:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,8,8,best-v1.pt,39.492779,paleta-284-8.jpg,2025-03-27 00:52:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,1,2,best-v1.pt,39.33911,paleta-285-1.jpg,2025-03-27 00:52:37
+/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/base-9,9,15,best-v1.pt,38.045966,paleta-340-9.jpg,2025-03-27 00:52:37
