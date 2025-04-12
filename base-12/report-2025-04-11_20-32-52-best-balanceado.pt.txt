@@ -1,0 +1,53 @@
++===================================+
+Filename - Ovos reais - Ovos contados
+Modelo: best-balanceado.pt
++===================================+
+paleta-1-25.jpg - 25 - 62
+paleta-10-103.jpg - 103 - 128
+paleta-10-179.jpg - 179 - 149
+paleta-10-56.jpg - 56 - 65
+paleta-10-79.jpg - 79 - 83
+paleta-11-148.jpg - 148 - 184
+paleta-11-157.jpg - 157 - 190
+paleta-11-178.jpg - 178 - 158
+paleta-12-181.jpg - 181 - 151
+paleta-12-19.jpg - 19 - 29
+paleta-12-24.jpg - 24 - 32
+paleta-12-41.jpg - 41 - 59
+paleta-13-28.jpg - 28 - 30
+paleta-13-31.jpg - 31 - 64
+paleta-13-33.jpg - 33 - 37
+paleta-13-82.jpg - 82 - 94
+paleta-13-83.jpg - 83 - 80
+paleta-15-54.jpg - 54 - 68
+paleta-15-66.jpg - 66 - 86
+paleta-15-92.jpg - 92 - 112
+paleta-16-4.jpg - 4 - 15
+paleta-17-21.jpg - 21 - 34
+paleta-17-49.jpg - 49 - 51
+paleta-17-8.jpg - 8 - 15
+paleta-2-10.jpg - 10 - 18
+paleta-2-2.jpg - 2 - 13
+paleta-2-4.jpg - 4 - 14
+paleta-3-37.jpg - 37 - 46
+paleta-4-107.jpg - 107 - 138
+paleta-4-11.jpg - 11 - 25
+paleta-4-125.jpg - 125 - 126
+paleta-4-158.jpg - 158 - 150
+paleta-4-5.jpg - 5 - 11
+paleta-5-13.jpg - 13 - 23
+paleta-5-26.jpg - 26 - 66
+paleta-5-28.jpg - 28 - 55
+paleta-6-38.jpg - 38 - 44
+paleta-6-65.jpg - 65 - 76
+paleta-7-14.jpg - 14 - 34
+paleta-7-32.jpg - 32 - 49
+paleta-8-139.jpg - 139 - 143
+paleta-8-146.jpg - 146 - 172
+paleta-8-15.jpg - 15 - 19
+paleta-8-25.jpg - 25 - 27
+paleta-9-12.jpg - 12 - 18
+paleta-9-137.jpg - 137 - 327
+paleta-9-60.jpg - 60 - 77
++===================================+
+Tempo total de execução: 1676.94s

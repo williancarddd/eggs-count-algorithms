@@ -1,0 +1,15 @@
++===================================+
+Filename - Ovos reais - Ovos contados
+Modelo: best-balanceado.pt
++===================================+
+paleta-1-41.png - 41 - 41
+paleta-2-60.png - 60 - 45
+paleta-3-18.png - 18 - 57
+paleta-4-20.png - 20 - 36
+paleta-43-108.jpg - 108 - 71
+paleta-5-29.png - 29 - 22
+paleta-6-12.png - 12 - 14
+paleta-7-32.png - 32 - 32
+paleta-8-0.png - 0 - 16
++===================================+
+Tempo total de execução: 298.16s
