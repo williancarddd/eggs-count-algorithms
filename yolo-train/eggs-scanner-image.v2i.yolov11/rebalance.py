@@ -46,9 +46,9 @@ random.shuffle(image_data)
 
 # Calcular totais
 total_objects = sum(item["obj_count"] for item in image_data)
-target_train = round(0.7 * total_objects)
-target_valid = round(0.2 * total_objects)
-target_test = total_objects - target_train - target_valid
+target_train = round(0.7 * total_objects)  # 70% para treino
+target_valid = round(0.1 * total_objects)  # 10% para validação
+target_test = round(0.2 * total_objects)   # 20% para teste
 
 # Inicialização
 buckets = {"train": [], "valid": [], "test": []}

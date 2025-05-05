@@ -10,9 +10,9 @@ torch.cuda.empty_cache()
 model = YOLO("yolo11n.yaml")
 results = model.train(
     data='/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/yolo-train/eggs-scanner-image.v2i.yolov11/data.yaml',
-    epochs=500,
-    imgsz=640,
-    batch=-1,        
+    epochs=200,
+    imgsz=512,
+    batch=-1,
     save=True,
     resume=True
 )
