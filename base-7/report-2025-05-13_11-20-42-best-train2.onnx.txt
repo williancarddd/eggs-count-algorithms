@@ -1,0 +1,19 @@
++===================================+
+Filename - Ovos reais - Ovos contados
+Modelo: best-train2.onnx
++===================================+
+paleta-1-112.jpg - 112 - 132
+paleta-10-8.jpg - 8 - 11
+paleta-11-47.jpg - 47 - 76
+paleta-12-93.jpg - 93 - 151
+paleta-13-129.jpg - 129 - 140
+paleta-14-114.jpg - 114 - 132
+paleta-15-15.jpg - 15 - 21
+paleta-16-95.jpg - 95 - 106
+paleta-17-24.jpg - 24 - 33
+paleta-2-4.jpg - 4 - 10
+paleta-5-21.jpg - 21 - 47
+paleta-7-53.jpg - 53 - 65
+paleta-9-13.jpg - 13 - 17
++===================================+
+Tempo total de execução: 42.02s
