@@ -1,0 +1,5 @@
+{
+  "confidence_threshold": 0.3,
+  "window_size": 254,
+  "device": "cuda:0"
+}
