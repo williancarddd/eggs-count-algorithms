@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load CSV file
-file_path = '/media/williancaddd/CODES/WORKSPACE-FIOTEC/eggs-count-algorithms/article/filtered_output.csv'
+file_path = '/home/williancarddd/Projects/workspace-fiocruz/eggs-count-algorithms/article/filtered_output.csv'
 df = pd.read_csv(file_path)
 
 # Filter out 'base-4'
@@ -20,7 +20,7 @@ df = df.rename(columns={
 })
 
 # Add Diferença (O-E) column in absolute value
-df['Diferença (O-E)'] = abs(df['Ovos observados (O)'] - df['Ovos Esperados (E)'])
+df['Diferença (O-E)'] = df['Ovos observados (O)'] - df['Ovos Esperados (E)']
 
 # Diferença (%) as number
 df['Diferença_num'] = (df['Diferença (O-E)'] / df['Ovos Esperados (E)']) * 100
